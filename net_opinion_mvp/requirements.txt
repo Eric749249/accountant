@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly
+google-api-python-client
+python-dateutil
+openai>=1.0.0
+janome
